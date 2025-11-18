@@ -10,6 +10,19 @@
 - MongoDB: https://account.mongodb.com/account/login
 - Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
+## Project Overview
+
+This is an end-to-end production-ready Machine Learning project that predicts US Visa approval status based on applicant features. The project demonstrates enterprise-level MLOps practices including automated pipelines, data drift monitoring, model evaluation, and cloud deployment with CI/CD integration.
+
+### Real-World Impact
+
+This system can be utilized by US Visa applicants to:
+
+- Assess their approval probability before applying
+- Identify areas for improvement in their application
+- Optimize their resume and credentials for higher success rates
+- Save time and resources by making data-driven decisions
+
 ## Git commands
 
 ```bash

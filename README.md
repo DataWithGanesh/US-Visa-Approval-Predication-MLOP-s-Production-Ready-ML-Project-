@@ -74,10 +74,17 @@ This project implements a supervised classification approach using multiple algo
 
 #### AWS Services Used
 
-EC2: Virtual machine for hosting the application
-ECR: Elastic Container Registry for Docker images
-S3: Storage for production models and artifacts
-IAM: Identity and Access Management for secure deployments
+- EC2: Virtual machine for hosting the application
+- ECR: Elastic Container Registry for Docker images
+- S3: Storage for production models and artifacts
+- IAM: Identity and Access Management for secure deployments
+
+### Key Features (MLOps Highlights)
+
+- Automated ML Pipeline
+- Data Drift Monitoring
+- Intelligent Model Management
+- Production Deployment
 
 ## Git commands
 

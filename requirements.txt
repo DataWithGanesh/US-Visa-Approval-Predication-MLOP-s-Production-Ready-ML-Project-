@@ -1,21 +1,21 @@
-ipykernel
-pandas
-numpy
-matplotlib
-plotly
-seaborn
-scipy
-scikit-learn
-imblearn
-xgboost
-catboost
-pymongo
+ipykernel # to use the package as a kernel in Jupyter Notebooks
+pandas # data manipulation and analysis
+numpy # numerical computing
+matplotlib # data visualization
+plotly # interactive graphing library
+seaborn # statistical data visualization
+scipy # scientific and technical computing
+scikit-learn # machine learning library used for data preprocessing and modeling
+imblearn # handling imbalanced datasets used for oversampling techniques
+xgboost # gradient boosting framework used for building predictive models
+catboost # gradient boosting library with categorical feature support used for modeling
+pymongo 
 from_root
 evidently==0.2.8
 dill
 PyYAML
 neuro_mf
-boto3
+boto3  # python librbary used to interact with AWS services
 mypy-boto3-s3
 botocore
 fastapi
